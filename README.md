@@ -180,7 +180,7 @@ people	korean	original
 
 Comma separated table, (movie id, people id, credit order, leading role)
 
-- `reading` 1 means the people acts as leading role
+- `leading` 1 means the people acts as leading role
 ```
 movie,people,order,leading 
 10107,1336,1,1
